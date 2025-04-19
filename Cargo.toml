@@ -2,8 +2,9 @@
 name = "nag"
 version = "0.1.0"
 edition = "2024"
-license = "Apache 2.0"
+license = "Apache-2.0"
 description = "productivity, in your terminal."
 authors = ["yinka olotin olayinka@kubeaid.io"]
+repository = "https://github.com/yinkaolotin/nag"
 
 [dependencies]
