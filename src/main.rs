@@ -1,8 +1,8 @@
 fn main() {
     println!("Hello, world!");
-    a();
+    b();
 }
 
-fn a() {
+fn b() {
     println!("aaa")
 }
